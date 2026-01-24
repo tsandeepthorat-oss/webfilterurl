@@ -5,3 +5,4 @@ ipinfo.io
 whatismyipaddress.com
 ottplay.com
 watcho.com
+speedtest.net

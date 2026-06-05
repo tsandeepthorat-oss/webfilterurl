@@ -1,3 +1,7 @@
-zee5.com
-sonyliv.com
-hotstar.com
+brightcove.net
+boltdns.net
+akamaihd.net
+edgefcs.net
+tvnz.co.nz
+tvnz.net.nz
+brightcove.com

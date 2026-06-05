@@ -1,7 +1,11 @@
+tvnz.co.nz
+tvnz.net.nz
+brightcove.com
 brightcove.net
 boltdns.net
 akamaihd.net
 edgefcs.net
-tvnz.co.nz
-tvnz.net.nz
-brightcove.com
+llnwd.net
+discomax.com
+conviva.com
+scorecardresearch.com

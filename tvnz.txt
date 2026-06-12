@@ -1,8 +1,42 @@
-brightcove.net
-boltdns.net
-akamaihd.net
-edgefcs.net
-tvnz.co.nz
-tvnz.net.nz
-brightcove.com
-https://www.whatismyip.com/
+# TVNZ – Core domains
+domain:tvnz.co.nz
+domain:www.tvnz.co.nz
+
+# TVNZ OnDemand / TVNZ+ streaming
+domain:tvnz.co.nz
+domain:www.tvnz.co.nz
+domain:tvnz-api.co.nz
+domain:api.tvnz.co.nz
+domain:edge.api.tvnz.co.nz
+domain:prod.api.tvnz.co.nz
+
+# TVNZ static assets & CDN
+domain:assets.tvnz.co.nz
+domain:static.tvnz.co.nz
+domain:images.tvnz.co.nz
+domain:prod.tvnz.co.nz
+domain:edge.static.tvnz.co.nz
+
+# TVNZ authentication / login
+domain:login.tvnz.co.nz
+domain:auth.tvnz.co.nz
+domain:identity.tvnz.co.nz
+
+# TVNZ video delivery (Akamai / Cloudfront / Mux)
+domain:tvnz-vod-prod.akamaized.net
+domain:tvnz-streaming.akamaized.net
+domain:cloudfront.net
+domain:mux.com
+domain:stream.mux.com
+
+# TVNZ analytics (required for playback)
+domain:omniture.tvnz.co.nz
+domain:metrics.tvnz.co.nz
+domain:stats.tvnz.co.nz
+
+# TVNZ ads (required for ad-supported playback)
+domain:ads.tvnz.co.nz
+domain:pubads.g.doubleclick.net
+domain:securepubads.g.doubleclick.net
+domain:g.doubleclick.net
+
